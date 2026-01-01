@@ -1263,3 +1263,4 @@ for FIXED_DELTA_RAD in deltas:
         P1_1D, P2_1D, P3_1D, 
         py_1D_color, color_label=r'$\mathbf{\sigma_\chi}$'
     )
+
