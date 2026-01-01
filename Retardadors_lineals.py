@@ -999,3 +999,4 @@ plot_IPPtetrahedron(
     P1_1D, P2_1D, P3_1D, 
     py_1D_color, color_label=r'$\mathbf{\Delta}$'
 )
+
